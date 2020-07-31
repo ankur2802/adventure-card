@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <div class="card"> 
+        <h3>ALBATROSS</h3>
+
+     <div class="list1">
+       <ul id="ul1">
+        <li>SCIENTIFIC NAME Diomedeidae</li>
+        <li>DIET: Carnivore</li>
+        <li>SIZE: Wingspan: 6.5 to 11 feet</li>
+        <li>WEIGHT: Up to 22 pounds</li>
+        <li>AVERAGE LIFE SPAN IN THE WILD: Up to 50 years</li>
+       </ul>
+     </div>
+
+
+ <img src="albatross.jpg" alt="albatross">
+
+ 
+
+<div class="content">
+         <p id="para1">An albatross aloft can be a spectacular sight. These feathered giants have the longest wingspan of any bird—up to 11 feet! The wandering albatross is the biggest of some two dozen different species. Albatrosses use their formidable wingspans to ride the ocean winds and sometimes to glide for hours without rest or even a flap of their wings. They also float on the sea's surface, though the position makes them vulnerable to aquatic predators.</p>
+         <div class="details">
+             <p id="para2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore commodi illo voluptatem architecto obcaecati magni, odit dolorem nemo hic dolore earum pariatur doloremque quis voluptate exercitationem distinctio aliquam consequatur culpa.</p>
+         </div>
+         <p id="para3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis nam, vero eum recusandae obcaecati ad in qui, ducimus labore inventore itaque architecto distinctio incidunt amet quaerat eius sapiente, autem facere.</p>
+     </div> 
+    </div>
+
+</body>
+</html>
